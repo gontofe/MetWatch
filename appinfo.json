@@ -1,0 +1,141 @@
+{
+    "appKeys": {
+        "KEY_CONDITIONS": 1,
+        "KEY_MOONPHASE": 4,
+        "KEY_SUNRISE": 2,
+        "KEY_SUNSET": 3,
+        "KEY_TEMPERATURE": 0
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "gontofe@hotmail.com",
+    "longName": "Met Watch",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/partly_cloudy.png",
+                "name": "WEATHER_2",
+                "type": "png"
+            },
+            {
+                "file": "images/clear_night.png",
+                "name": "WEATHER_0",
+                "type": "png"
+            },
+            {
+                "file": "images/sun.png",
+                "name": "WEATHER_1",
+                "type": "png"
+            },
+            {
+                "file": "images/fog.png",
+                "name": "WEATHER_3",
+                "type": "png"
+            },
+            {
+                "file": "images/overcast.png",
+                "name": "WEATHER_4",
+                "type": "png"
+            },
+            {
+                "file": "images/light_rain.png",
+                "name": "WEATHER_5",
+                "type": "png"
+            },
+            {
+                "file": "images/heavy_rain.png",
+                "name": "WEATHER_6",
+                "type": "png"
+            },
+            {
+                "file": "images/sleet.png",
+                "name": "WEATHER_7",
+                "type": "png"
+            },
+            {
+                "file": "images/hail.png",
+                "name": "WEATHER_8",
+                "type": "png"
+            },
+            {
+                "file": "images/light_snow.png",
+                "name": "WEATHER_9",
+                "type": "png"
+            },
+            {
+                "file": "images/heavy_snow.png",
+                "name": "WEATHER_10",
+                "type": "png"
+            },
+            {
+                "file": "images/thunder.png",
+                "name": "WEATHER_11",
+                "type": "png"
+            },
+            {
+                "file": "images/na.png",
+                "name": "WEATHER_12",
+                "type": "png"
+            },
+            {
+                "file": "images/moon7.png",
+                "name": "IMAGE_MOON_7",
+                "type": "png"
+            },
+            {
+                "file": "images/moon6.png",
+                "name": "IMAGE_MOON_6",
+                "type": "png"
+            },
+            {
+                "file": "images/moon5.png",
+                "name": "IMAGE_MOON_5",
+                "type": "png"
+            },
+            {
+                "file": "images/moon4.png",
+                "name": "IMAGE_MOON_4",
+                "type": "png"
+            },
+            {
+                "file": "images/moon3.png",
+                "name": "IMAGE_MOON_3",
+                "type": "png"
+            },
+            {
+                "file": "images/moon2.png",
+                "name": "IMAGE_MOON_2",
+                "type": "png"
+            },
+            {
+                "file": "images/moon1.png",
+                "name": "IMAGE_MOON_1",
+                "type": "png"
+            },
+            {
+                "file": "images/moon0.png",
+                "name": "IMAGE_MOON_0",
+                "type": "png"
+            },
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_48",
+                "type": "font"
+            },
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_20",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "Met Watch",
+    "uuid": "5f2140f6-ca80-4300-8a87-d4243fc27b9e",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
