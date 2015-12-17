@@ -17,27 +17,27 @@
             {
                 "file": "images/partly_cloudy.png",
                 "name": "WEATHER_2",
-                "type": "png"
+                "type": "bitmap"
             },
             {
                 "file": "images/clear_night.png",
                 "name": "WEATHER_0",
-                "type": "png"
+                "type": "bitmap"
             },
             {
                 "file": "images/sun.png",
                 "name": "WEATHER_1",
-                "type": "png"
+                "type": "bitmap"
             },
             {
                 "file": "images/fog.png",
                 "name": "WEATHER_3",
-                "type": "png"
+                "type": "bitmap"
             },
             {
                 "file": "images/overcast.png",
                 "name": "WEATHER_4",
-                "type": "png"
+                "type": "bitmap"
             },
             {
                 "file": "images/light_rain.png",
@@ -47,17 +47,17 @@
             {
                 "file": "images/heavy_rain.png",
                 "name": "WEATHER_6",
-                "type": "png"
+                "type": "bitmap"
             },
             {
                 "file": "images/sleet.png",
                 "name": "WEATHER_7",
-                "type": "png"
+                "type": "bitmap"
             },
             {
                 "file": "images/hail.png",
                 "name": "WEATHER_8",
-                "type": "png"
+                "type": "bitmap"
             },
             {
                 "file": "images/light_snow.png",
@@ -67,12 +67,12 @@
             {
                 "file": "images/heavy_snow.png",
                 "name": "WEATHER_10",
-                "type": "png"
+                "type": "bitmap"
             },
             {
                 "file": "images/thunder.png",
                 "name": "WEATHER_11",
-                "type": "png"
+                "type": "bitmap"
             },
             {
                 "file": "images/na.png",
@@ -82,42 +82,42 @@
             {
                 "file": "images/moon7.png",
                 "name": "IMAGE_MOON_7",
-                "type": "png"
+                "type": "bitmap"
             },
             {
                 "file": "images/moon6.png",
                 "name": "IMAGE_MOON_6",
-                "type": "png"
+                "type": "bitmap"
             },
             {
                 "file": "images/moon5.png",
                 "name": "IMAGE_MOON_5",
-                "type": "png"
+                "type": "bitmap"
             },
             {
                 "file": "images/moon4.png",
                 "name": "IMAGE_MOON_4",
-                "type": "png"
+                "type": "bitmap"
             },
             {
                 "file": "images/moon3.png",
                 "name": "IMAGE_MOON_3",
-                "type": "png"
+                "type": "bitmap"
             },
             {
                 "file": "images/moon2.png",
                 "name": "IMAGE_MOON_2",
-                "type": "png"
+                "type": "bitmap"
             },
             {
                 "file": "images/moon1.png",
                 "name": "IMAGE_MOON_1",
-                "type": "png"
+                "type": "bitmap"
             },
             {
                 "file": "images/moon0.png",
                 "name": "IMAGE_MOON_0",
-                "type": "png"
+                "type": "bitmap"
             },
             {
                 "file": "fonts/perfect-dos-vga.ttf",
@@ -134,7 +134,7 @@
     "shortName": "Met Watch",
     "uuid": "5f2140f6-ca80-4300-8a87-d4243fc27b9e",
     "versionCode": 1,
-    "versionLabel": "1.0",
+    "versionLabel": "1.1",
     "watchapp": {
         "watchface": true
     }
