@@ -42,7 +42,7 @@
             {
                 "file": "images/light_rain.png",
                 "name": "WEATHER_5",
-                "type": "png"
+                "type": "bitmap"
             },
             {
                 "file": "images/heavy_rain.png",
