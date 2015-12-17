@@ -17,47 +17,47 @@
             {
                 "file": "images/partly_cloudy.png",
                 "name": "WEATHER_2",
-                "type": "bitmap"
+                "type": "png"
             },
             {
                 "file": "images/clear_night.png",
                 "name": "WEATHER_0",
-                "type": "bitmap"
+                "type": "png"
             },
             {
                 "file": "images/sun.png",
                 "name": "WEATHER_1",
-                "type": "bitmap"
+                "type": "png"
             },
             {
                 "file": "images/fog.png",
                 "name": "WEATHER_3",
-                "type": "bitmap"
+                "type": "png"
             },
             {
                 "file": "images/overcast.png",
                 "name": "WEATHER_4",
-                "type": "bitmap"
+                "type": "png"
             },
             {
                 "file": "images/light_rain.png",
                 "name": "WEATHER_5",
-                "type": "bitmap"
+                "type": "png"
             },
             {
                 "file": "images/heavy_rain.png",
                 "name": "WEATHER_6",
-                "type": "bitmap"
+                "type": "png"
             },
             {
                 "file": "images/sleet.png",
                 "name": "WEATHER_7",
-                "type": "bitmap"
+                "type": "png"
             },
             {
                 "file": "images/hail.png",
                 "name": "WEATHER_8",
-                "type": "bitmap"
+                "type": "png"
             },
             {
                 "file": "images/light_snow.png",
@@ -67,12 +67,12 @@
             {
                 "file": "images/heavy_snow.png",
                 "name": "WEATHER_10",
-                "type": "bitmap"
+                "type": "png"
             },
             {
                 "file": "images/thunder.png",
                 "name": "WEATHER_11",
-                "type": "bitmap"
+                "type": "png"
             },
             {
                 "file": "images/na.png",
@@ -82,42 +82,42 @@
             {
                 "file": "images/moon7.png",
                 "name": "IMAGE_MOON_7",
-                "type": "bitmap"
+                "type": "png"
             },
             {
                 "file": "images/moon6.png",
                 "name": "IMAGE_MOON_6",
-                "type": "bitmap"
+                "type": "png"
             },
             {
                 "file": "images/moon5.png",
                 "name": "IMAGE_MOON_5",
-                "type": "bitmap"
+                "type": "png"
             },
             {
                 "file": "images/moon4.png",
                 "name": "IMAGE_MOON_4",
-                "type": "bitmap"
+                "type": "png"
             },
             {
                 "file": "images/moon3.png",
                 "name": "IMAGE_MOON_3",
-                "type": "bitmap"
+                "type": "png"
             },
             {
                 "file": "images/moon2.png",
                 "name": "IMAGE_MOON_2",
-                "type": "bitmap"
+                "type": "png"
             },
             {
                 "file": "images/moon1.png",
                 "name": "IMAGE_MOON_1",
-                "type": "bitmap"
+                "type": "png"
             },
             {
                 "file": "images/moon0.png",
                 "name": "IMAGE_MOON_0",
-                "type": "bitmap"
+                "type": "png"
             },
             {
                 "file": "fonts/perfect-dos-vga.ttf",
